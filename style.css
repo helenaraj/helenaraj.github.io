@@ -1,0 +1,32 @@
+h1 #name{
+
+  color:black;
+}
+
+h2 {
+
+  color: red;
+  font-size: 60px;
+}
+
+.block{
+  width: 20px;
+  height: 20px;
+  background-color:red;
+  margin: 10px;
+}
+
+
+#image1:hover {
+    margin: 100px;
+    transform: scale(1.25); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+body{
+  background-color: #f49b42
+}
+
+#image2:hover {
+    margin: 100px;
+    transform: scale(1.25); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
